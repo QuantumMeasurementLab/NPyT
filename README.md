@@ -1,4 +1,4 @@
-# NPyT: The (N)PT optimization (Py)thon (T)oolbox 
+# NPyT: The (N)PT test optimization (Py)thon (T)oolbox 
 
 NPyT is a toolbox in Python for selecting the optimal NPT criterion by determining the level of confidence of criteria within the Shchukin and Vogel hierarchy [[Phys. Rev. Lett. 95, 230502 (2005)]](https://doi.org/10.1103/PhysRevLett.95.230502).
 
