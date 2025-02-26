@@ -1,5 +1,5 @@
 """
-(N)PT optimization (Py)thon (T)oolbox
+(N)PT test optimization (Py)thon (T)oolbox
 """
 #___________________________________________________________________________________ 
 #
