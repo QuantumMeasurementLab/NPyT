@@ -2,7 +2,7 @@
 
 NPyT is a toolbox in Python for selecting the optimal NPT criterion by determining the level of confidence of criteria within the Shchukin and Vogel hierarchy [[Phys. Rev. Lett. 95, 230502 (2005)]](https://doi.org/10.1103/PhysRevLett.95.230502).
 
-NPyT is developed by Lydia A. Kanari-Naish in the Quantum Measurement Lab, Imperial College London, [[qmeas.net]](https://www.qmeas.net).
+NPyT is developed by Lydia A. Kanari-Naish building on project discussions with Jack Clarke, Sofia Qvarfort, and Michael R. Vanner.
 
 
 ## Step 1
