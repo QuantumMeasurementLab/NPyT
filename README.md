@@ -52,4 +52,4 @@ Examples of how to calculate optimal NPT criteria using NPyT are given for the T
 
 If you use NPyT in your work, please cite the accompanying paper:
 Lydia A. Kanari-Naish, Jack Clarke, Sofia Qvarfort, and Michael R. Vanner, "Optimizing confidence in negative-partial-transpose-based entanglement criteria", 
-[[arXiv:2502.19624, (2025).]](https://doi.org/10.48550/arXiv.2502.19624).
+[[arXiv:2502.19624, (2025)]](https://doi.org/10.48550/arXiv.2502.19624).
